@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnapsackProblem", "KnapsackProblem\KnapsackProblem.csproj", "{E4BA3053-1934-4DDD-9CFB-1EE3C4ECC581}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2BEA2C28-71CD-4A09-8C15-C185B4641BAD}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4BA3053-1934-4DDD-9CFB-1EE3C4ECC581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4BA3053-1934-4DDD-9CFB-1EE3C4ECC581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4BA3053-1934-4DDD-9CFB-1EE3C4ECC581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4BA3053-1934-4DDD-9CFB-1EE3C4ECC581}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C594DF8-B8BD-474F-BBFD-8A7536F82C87}
+	EndGlobalSection
+EndGlobal
